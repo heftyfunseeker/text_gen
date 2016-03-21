@@ -1,0 +1,8 @@
+[package]
+name = "text_gen"
+version = "0.1.0"
+authors = ["Nicco Simone <niccosimone@gmail.com>"]
+
+[dependencies]
+
+rand="*"
